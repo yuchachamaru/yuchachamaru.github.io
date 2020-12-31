@@ -1,3 +1,4 @@
+[
   {
     "name": "Purrsloud",
     "species": "Cat",
@@ -18,3 +19,4 @@
     "birthYear": 2019,
     "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
   }
+]
