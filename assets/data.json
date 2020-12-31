@@ -9,9 +9,9 @@
       "model" : "aaa",
       "secretIdentity" : "Dan Jukes",
       "item" : [
-        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "http://yuchachamaru.html.xdomain.jp/tab-search/assets/img/t12nhg.jpg://"},
-        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "http://yuchachamaru.html.xdomain.jp/tab-search/assets/img/t12nhg.jpg://"},
-        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "http://yuchachamaru.html.xdomain.jp/tab-search/assets/img/t12nhg.jpg://"}
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "http://yuchachamaru.html.xdomain.jp/tab-search/assets/img/t12nhg.jpg"},
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "http://yuchachamaru.html.xdomain.jp/tab-search/assets/img/t12nhg.jpg"},
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "http://yuchachamaru.html.xdomain.jp/tab-search/assets/img/t12nhg.jpg"}
       ]
     },
     {
