@@ -1,0 +1,28 @@
+
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "active" : true,
+  "carList" : [
+    {
+      "name" : "S210",
+      "model" : "aaa",
+      "secretIdentity" : "Dan Jukes",
+      "item" : [
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "https://"},
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "https://"},
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "https://"}
+      ]
+    },
+    {
+      "name" : "S200",
+      "model" : "aaa",
+      "secretIdentity" : "Dan Jukes",
+      "item" : [
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "https://"},
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "https://"},
+        {"name": "name", "year": "H00.00-R00.00", "cat": "MOP", "type1": "TV", "type2": "AUTO", "url": "https://", "img": "https://"}
+      ]
+    }
+  ]
+}
